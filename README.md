@@ -8,7 +8,7 @@
 
 </div>
 
-- 🚀 I'm currently working on CampusBaZZar... loading ⏳
+- 🚀 I'm currently working on CampusBaZZar...⏳
 - 👨‍💻 I'm currently crafting code & learning every day.<br>
 - 🔎 Eager to collaborate on impactful Open Source and Open Science projects.
 - 🧿 Actively working on improvements — stay tuned.
